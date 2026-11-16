@@ -223,6 +223,7 @@ __marimo__/
 
 .venv/
 data/*.csv
+!data/cleaned_listings.csv
 .ipynb_checkpoints/
 venv/
 
